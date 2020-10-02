@@ -31,7 +31,7 @@
     - app.run(host="0.0.0.0", port="*Your_port_num*")
 
 
-## 실행 예시
+## 
 
 - cam_demo.py
 <img src="img/4.gif">
